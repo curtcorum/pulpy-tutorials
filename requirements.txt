@@ -5,3 +5,4 @@ scipy
 tqdm
 sigpy
 pulpy
+matplotlib
