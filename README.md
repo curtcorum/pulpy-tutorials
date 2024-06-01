@@ -6,6 +6,6 @@ This is a collection of jupyter notebooks demonstration the functionality of the
 
 Binder links for each notebook with description:
 
-Adibatic pulse design. Examples of bir4, blah blah: (*** change ***)
+Adibatic pulse design. Examples of bir4, blah blah: https://mybinder.org/v2/gh/curtcorum/pulpy-tutorials/ccjoss/?urlpath=lab/tree/adiabatic_pulse_design.ipynb (*** change ***)
 
 Next notebook description: <link>
