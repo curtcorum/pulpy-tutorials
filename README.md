@@ -1,6 +1,6 @@
 This badge launches the complete folder in jupyter-notbook (*** change ***):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/curtcorum/pulpy-tutorials/ccjoss/?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/pulpy-tutorials/?urlpath=lab)
 
 This is a collection of jupyter notebooks demonstration the functionality of the PulPy python package for MR RF pulse and gradient waveform design.
 
