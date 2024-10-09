@@ -1,7 +1,7 @@
 # PulPy (Pulses in Python) Tutorials
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/pulpy-tutorials/HEAD)
 
-This is a collection of jupyter notebooks demonstration the functionality of the PulPy python package for MR RF pulse and gradient waveform design. These notebooks are Binder-enabled - click on the badge above for an interactive notebook demonstrating the toolbox, or use one of the badges below to jump to a specific demo. 
+This is a collection of jupyter notebooks demonstration the functionality of the PulPy python package for MR RF pulse and gradient waveform design. These notebooks are Binder-enabled - click on the badge above for an interactive notebook demonstrating the toolbox, or use one of the badges below to jump to a specific demo. Matplotlib will be required for plotting purposes. 
 
 Description for specific notebooks: 
 
